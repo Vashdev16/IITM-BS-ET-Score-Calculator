@@ -29,7 +29,7 @@
     }
 
     input[type="number"] {
-        width: 97.67%;
+        width: 96.89%;
         padding: 10px;
         margin-bottom: 10px;
         border: 1px solid #ccc;
