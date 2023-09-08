@@ -37,7 +37,7 @@
     }
 
     button {
-        width: 90.00%;
+        width: 96.89%;
         background-color: #000000;
         color: #fff;
         border: none;
